@@ -1,3 +1,4 @@
+The modifiability bot and the 
 # Supplementary Material
 
 This page provides supplementary material for the paper Distributed Quality-Attribute Optimization of Software Architectures. 
@@ -10,7 +11,8 @@ This page will be completed by Tue May 02, 2017.
 
 ## SQuAT Implementation 
 
-- TODO: Modifiability bot, performance bot, negotiator (add to a release a commit in the respective repositories?)
+- The SQuAT moderator (including negotiation) and the modifiability bot are provided in https://github.com/SQuAT-Team/kamp-test
+- The performance bot is provided in https://github.com/SQuAT-Team/headless-peropteryx
 
 ## Evaluation 
 
