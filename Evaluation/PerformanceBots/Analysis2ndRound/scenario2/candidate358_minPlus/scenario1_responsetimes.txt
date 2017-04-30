@@ -1,0 +1,70 @@
+
+-------------------
+Candidate: default
+result: 21.51209
+-------------------
+
+-------------------
+Candidate: default-0-IExporter
+result: 21.623089999999998
+-------------------
+
+-------------------
+Candidate: default-0-Payment System
+result: 21.51209
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-0-IExporter
+result: 21.623089999999998
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-1-ITripDB
+result: 22.13669
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-2-IExternalPayment
+result: 22.90915
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-3-IEmployeePayment
+result: 21.77399
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-4-IBooking
+result: 23.031850000000002
+-------------------
+
+-------------------
+Candidate: default-0-Payment System-5-IBusiness Trip
+result: error (unsolvable)
+-------------------
+
+-------------------
+Candidate: default-1-ITripDB
+result: 22.13669
+-------------------
+
+-------------------
+Candidate: default-2-IExternalPayment
+result: 22.90915
+-------------------
+
+-------------------
+Candidate: default-3-IEmployeePayment
+result: 21.77399
+-------------------
+
+-------------------
+Candidate: default-4-IBooking
+result: 23.031850000000002
+-------------------
+
+-------------------
+Candidate: default-5-IBusiness Trip
+result: error (unsolvable)
+-------------------

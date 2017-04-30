@@ -1,0 +1,32 @@
+opt-models-scenario2 analyzed with scenario1:
+
+----
+Name: candidate416
+Response Time: 12.170570000000001
+----
+Name: candidate366
+Response Time: 21.00345
+----
+Name: candidate480
+Response Time: 19.53763
+----
+Name: candidate325
+Response Time: 26.76549
+----
+Name: candidate22
+Response Time: 20.55931
+----
+Name: candidate358
+Response Time: 21.51209
+----
+Name: candidate209
+Response Time: 14.51197
+----
+Name: candidate479
+Response Time: 18.98772
+----
+Name: candidate476
+Response Time: 28.2282
+----
+Name: candidate330
+Response Time: 26.021819999999998

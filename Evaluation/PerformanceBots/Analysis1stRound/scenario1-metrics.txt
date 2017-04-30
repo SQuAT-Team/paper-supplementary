@@ -1,0 +1,18 @@
+ICSA
+Performance results for the icsa modifiability candidates (minimized repository with modifiability tactics)
+
+stplus: 111.7639
+stplus-0-IExporter: 152.77259999999998
+stplus-0-Payment System: 111.7639
+stplus-1-ITripDB: 112.94460000000001
+stplus-2-IExternalPayment: 119.5708
+stplus-3-IEmployeePayment: 112.6332
+stplus-4-IBooking: 132.47140000000002
+stplus-5-IBusiness Trip: -
+stplus-split: 111.7639
+stplus-split-0-IExporter: 152.77259999999998
+stplus-split-1-ITripDB: 112.94460000000001
+stplus-split-2-IExternalPayment: 119.5708
+stplus-split-3-IEmployeePayment: 112.6332
+stplus-split-4-IBooking: 132.47140000000002
+stplus-split-5-IBusiness Trip: -
