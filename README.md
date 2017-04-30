@@ -2,7 +2,7 @@
 
 This page provides supplementary material for the paper Distributed Quality-Attribute Optimization of Software Architectures. 
 
-This page will be completed by Fri Apr 28, 2017
+This page will be completed by Tue May 02, 2017.
 
 ## ST+ Example System 
 
