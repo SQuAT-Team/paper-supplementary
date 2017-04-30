@@ -1,4 +1,4 @@
-The modifiability bot and the 
+
 # Supplementary Material
 
 This page provides supplementary material for the paper Distributed Quality-Attribute Optimization of Software Architectures. 
