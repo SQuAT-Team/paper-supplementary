@@ -7,7 +7,7 @@ This page will be completed by Tue May 02, 2017.
 
 ## ST+ Example System 
 
-- TODO: Palladio model (add to subdirectory of this repository and add a link)
+- The Palladio Models of the ST+ Example System are provided in https://github.com/SQuAT-Team/paper-supplementary/tree/master/SimpleTacticsPlus
 
 ## SQuAT Implementation 
 
