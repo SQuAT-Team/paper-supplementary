@@ -1,1 +1,0 @@
-The optimized models are located in subfolders of the models sent by the modifiability bot.

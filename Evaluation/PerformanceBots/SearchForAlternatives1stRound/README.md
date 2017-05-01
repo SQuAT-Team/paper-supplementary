@@ -1,1 +1,0 @@
-The results for the optimization of the initial candidate. The minPlus candidates have been passed to the negotiator. The optimization results without applying a scenario (opt models) have not been used further.
